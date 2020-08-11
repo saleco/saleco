@@ -1,5 +1,6 @@
 ### Hi there 👋
 I'm Sallo, born and raised in Rio de Janeiro, Brazil, now based in Lisbon, Portugal.
+
 I have been working with Java since 2006 and have a great experiency on Software Development.
 <!--
 **saleco/saleco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,9 +28,6 @@ You can find and get touch with me on these accounts!
 
 [![Linkedin Badge](https://img.shields.io/badge/saleco-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/salloszrajbman/)  
 
-<!--
 <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="100px" width="100px">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saleco)](https://github.com/saleco/github-readme-stats)
-
--->
