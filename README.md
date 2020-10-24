@@ -2,6 +2,11 @@
 I'm Sallo, born and raised in Rio de Janeiro, Brazil, now based in Lisbon, Portugal.
 
 I have been working with Java since 2006 and have a great experiency on Software Development.
+
+Spring Boot Enthusiastic
+
+Tech Writer at [baeldung.com](http://baeldung.com)
+
 <!--
 **saleco/saleco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
