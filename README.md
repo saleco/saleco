@@ -4,6 +4,7 @@ I'm Sallo, born and raised in Rio de Janeiro, Brazil, now based in Lisbon, Portu
 I have been working with Java since 2006 and have a great experiency on Software Development.
 
 AWS Cloud Practicioner / Solutions Architect Associate Certified
+
 Spring Boot Enthusiastic
 
 Tech Writer at [baeldung.com](http://baeldung.com)
